@@ -107,7 +107,6 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-
        /* pick.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
